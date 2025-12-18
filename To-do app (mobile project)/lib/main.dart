@@ -1,6 +1,3 @@
-// Simple ToDo App
-// Covers: StatefulWidget, setState, List, TextField, ListView, GestureDetector
-
 import 'package:flutter/material.dart';
 
 void main() {
